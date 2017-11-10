@@ -1,0 +1,31 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+/out/
+.idea_modules/
+atlassian-ide-plugin.xml
+.idea/*
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings
+bin
+node_modules
+.Idea
+.idea
+cmd/try-simplejson
+mime-type-crawler
+glide.lock
+*.xlsx
+target
+*.doc
+*.csv
+htmls/*.html
+htmls/*.*
+/pkg
+glide.lock
